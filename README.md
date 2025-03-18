@@ -7,14 +7,14 @@
 
 ---
 
-- 🔭 I’m currently working on **Azzurra App**, a service request management platform for resort staff and guests.  
-- 🌱 I’m currently learning **React Native & Expo** to expand into mobile development.  
-- 👯 I’m looking to collaborate on **open-source projects that push UI/UX performance & developer experience**.  
-- 🤔 I’m looking for help with **optimizing React Native performance & mastering advanced Git workflows**.  
-- 💬 Ask me about **React, Next.js, frontend performance, or UI/UX best practices!**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/abdil-aziz-elgarf) | [Email](mailto:abdilaziz.m.elsayed@gmail.com)**  
-- ⚡ Fun fact: I started in **sales & marketing**, but my passion for tech led me to become a developer. Now, I blend my business mindset with frontend engineering!  
-
+- 🔭 **Building real-world solutions**: Currently developing **Azzurra App**, a service request management platform for resort staff and guests, enhancing **efficiency & user experience**.  
+- 🌱 **Expanding my expertise**: Mastering **React Native & Expo** to bring seamless mobile experiences to life.  
+- 👯 **Open to collaborations**: Excited to contribute to **innovative open-source projects** that improve UI/UX performance & developer productivity.  
+- 🤔 **Always optimizing**: Exploring **advanced React Native performance techniques & mastering Git workflows** for scalable applications.  
+- 💬 **Let's talk frontend!** Ask me about **React, Next.js, frontend performance, or crafting smooth & engaging user interfaces**.  
+- 📫 **Let’s connect**: **[LinkedIn](https://www.linkedin.com/in/abdil-aziz-elgarf) | [Email](mailto:abdilaziz.m.elsayed@gmail.com)**  
+- ⚡ **From business to code**: My background in **sales & marketing** gives me a unique edge—I build **user-friendly** and **business-driven** frontend solutions.
+  
 ---
 
 ### 🚀 My Tech Stack  
@@ -25,11 +25,11 @@
 
 ---
 
-### 📊 GitHub Stats  
+<!-- ### 📊 GitHub Stats -->  
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Aziz-Mohamed&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-Mohamed&layout=compact&theme=radical" alt="Top Languages" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-Mohamed&layout=compact&theme=radical" alt="Top Languages" /> -->
 </p>
 
 ---
