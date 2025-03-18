@@ -1,13 +1,14 @@
-## Hi 👋, I'm Aziz Mohamed  
-### 🚀 Frontend Developer | React & React Native Specialist  
+<h1 align="center">Hi 👋, I'm Aziz Mohamed</h1>  
+<h3 align="center">🚀 Frontend Developer | React & React Native Specialist</h3>  
 
-🚀 Frontend Developer | React | React Native | Next.js | Expo  
-💡 Tech Enthusiast with a Business & Artistic Edge  
+<p align="center">
+  💡 Tech Enthusiast with a Business & Artistic Edge  
+</p>
 
 ---
 
 - 🔭 I’m currently working on **Azzurra App**, a service request management platform for resort staff and guests.  
-- 🌱 I’m currently learning **React Native & Expo** to expand my frontend expertise into mobile development.  
+- 🌱 I’m currently learning **React Native & Expo** to expand into mobile development.  
 - 👯 I’m looking to collaborate on **open-source projects that push UI/UX performance & developer experience**.  
 - 🤔 I’m looking for help with **optimizing React Native performance & mastering advanced Git workflows**.  
 - 💬 Ask me about **React, Next.js, frontend performance, or UI/UX best practices!**  
@@ -25,7 +26,12 @@
 ---
 
 ### 📊 GitHub Stats  
-![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aziz-Mohamed&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-Mohamed&layout=compact&theme=radical)  
+<p align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Aziz-Mohamed&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-Mohamed&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
 
 🔗 **Check out my projects & let’s build something awesome together!**  
