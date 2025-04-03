@@ -5,8 +5,8 @@
 </p>
 
 ---
-- 👯 **Open to collaborations**: Excited to contribute to **innovative open-source projects** that improve UI/UX performance & developer productivity.  
-- 🤔 **Always optimizing**: Exploring **advanced React Native performance techniques & mastering Git workflows** for scalable applications.  
+- 👯 **Open to collaborations**
+- 🤔 **Always optimizing**
 - 📫 **Let’s connect**: **[LinkedIn](https://www.linkedin.com/in/abdil-aziz-elgarf) | [Email](mailto:abdilaziz.m.elsayed@gmail.com)**  
 - ⚡ **From business to code**: My background in **sales & marketing** gives me a unique edge—I build **user-friendly** and **business-driven** frontend solutions.
   
