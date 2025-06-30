@@ -13,7 +13,8 @@
 ---
 
 ### 🚀 My Tech Stack  
-💻 **Software Developer:** JavaScript, TypeScript, React.js, React Native, Expo, Next.js  
+💻 **Frontend:** JavaScript, TypeScript, React.js, React Native, Expo, Next.js  
+💻 **Backend:** Supabase  
 🎨 **Styling:** CSS, TailwindCSS, Styled-Components, Bootstrap  
 📦 **State Management:** Redux, Tanstack Query  
 🛠 **Tools:** Git, GitHub, Vercel, Supabase  
