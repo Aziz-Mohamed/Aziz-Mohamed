@@ -1,4 +1,4 @@
-<h3 align="center">🚀 Frontend Developer | React & React Native Specialist</h3>  
+<h3 align="center">🚀 Software Developer | React & React Native Specialist</h3>  
 
 <p align="center">
   💡 Tech Enthusiast with a Business & Artistic Edge  
@@ -8,12 +8,12 @@
 - 👯 **Open to collaborations**
 - 🤔 **Always optimizing**
 - 📫 **Let’s connect**: **[LinkedIn](https://www.linkedin.com/in/abdil-aziz-elgarf) | [Email](mailto:abdilaziz.m.elsayed@gmail.com)**  
-- ⚡ **From business to code**: My background in **sales & marketing** gives me a unique edge—I build **user-friendly** and **business-driven** frontend solutions.
+- ⚡ **From business to code**: My background in **sales & marketing** gives me a unique edge—I build **user-friendly** and **business-driven** Software solutions.
   
 ---
 
 ### 🚀 My Tech Stack  
-💻 **Frontend:** JavaScript, TypeScript, React.js, React Native, Expo, Next.js  
+💻 **Software Developer:** JavaScript, TypeScript, React.js, React Native, Expo, Next.js  
 🎨 **Styling:** CSS, TailwindCSS, Styled-Components, Bootstrap  
 📦 **State Management:** Redux, Tanstack Query  
 🛠 **Tools:** Git, GitHub, Vercel, Supabase  
