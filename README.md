@@ -1,4 +1,4 @@
-<h3 align="center">📱 Mobile Cross-Platform Developer | React Native & Flutter</h3>  
+<h3 align="center">📱 Mobile Cross-Platform Developer | React Native </h3>  
 
 <p align="center">
   🚀 Delivering performant apps for iOS, Android & Web with a focus on UX & business impact  
@@ -6,7 +6,7 @@
 
 ---
 
-- 🔹 **Specialized in cross-platform mobile apps** (React Native, Flutter, Expo)  
+- 🔹 **Specialized in cross-platform mobile apps** (React Native, Expo)  
 - 🔹 **Frontend expertise** with React.js & Next.js  
 - 🔹 **Business-driven mindset** → background in sales & marketing helps me align apps with real user needs  
 - 🌐 **Portfolio:** [abdilaziz.com](https://abdilaziz.com)  
@@ -15,7 +15,7 @@
 ---
 
 ### 🛠️ Core Tech Stack  
-- **Mobile:** React Native, Expo, Flutter  
+- **Mobile:** React Native, Expo  
 - **Web:** React.js, Next.js  
 - **Backend & APIs:** Supabase, REST, Firebase (basics)  
 - **Styling & State:** TailwindCSS, Redux, TanStack Query  
