@@ -17,7 +17,7 @@
 ### 🛠️ Core Tech Stack  
 - **Mobile:** React Native, Expo  
 - **Web:** React.js, Next.js  
-- **Backend & APIs:** Supabase, REST, Firebase (basics)  
+- **Backend & APIs:** Supabase, REST 
 - **Styling & State:** TailwindCSS, Redux, TanStack Query  
 
 ---
